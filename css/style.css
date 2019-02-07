@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+}
+
+p {
+    font-weight: bold;
+    font-style: normal;
+    font-family: helvetica, serif;
+    font-size: 30px;
+    color: white;
+}
+
+button {
+    background-color:black;
+    border-color: black;
+    
+}
+
+#questions {
+    margin-top: 140px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#submit {
+    font-family: helvetica, serif;
+    font-style: italic;
+    font-size: 15px;
+    color: red;
+}
+
